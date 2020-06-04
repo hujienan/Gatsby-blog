@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/Gatsby-blog",
   siteMetadata: {
     title: `Pandas Eating Lots`,
     description: `A simple description about pandas eating lots...`,
